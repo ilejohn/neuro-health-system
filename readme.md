@@ -1,4 +1,4 @@
-This is a **Brain Health Care Information Management System Software. 
+This is a **Brain Health Care Information Management System Software.** 
 
 Developed by Ilesanmi Opeyemi. Bugs and errors should be sent to ojilesanmi7@gmail.com
 
